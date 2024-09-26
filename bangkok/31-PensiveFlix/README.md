@@ -25,7 +25,7 @@
 
 <img src="./doc/PensiveFlixIntroduce.png" alt="introduce"  />
 
-==============================================Bounty Application: CESS==============================================
+==================Bounty Application: CESS==================
 
 ## Features planned for the Hackathon
 
